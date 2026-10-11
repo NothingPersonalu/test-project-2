@@ -12,6 +12,7 @@ int main ()
         a = b * 0.123569;
 
         cout << fixed << setprecision(2) <<  a << endl;
+        cout << "welcome to C++ programming" << endl;
         return 0; 
     }
     
