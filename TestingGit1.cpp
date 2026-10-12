@@ -13,6 +13,7 @@ int main ()
 
         cout << fixed << setprecision(2) <<  a << endl;
         cout << "welcome to C++ programming" << endl;
+        cout << "hai fendi";
         return 0; 
     }
     
